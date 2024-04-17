@@ -3,26 +3,18 @@
 </div>
 
 # Blog de Lalín
-- Comandos: avatar, ayuda, ban, clear, invitar, md, ping o server.
-- Otros: Configuracuón de Actividad, paquete discord.js, mensajes en español.
+- Página de Apertura Pronto (Acabada)
+- Página Web Blog de Lalín (En desarrollo)
 
 # Sobre
-Este bot ha sido desarrollado con NODE.js y Visual Studio Code.
-- Requisitos
-Se necesita Node.js 16.11.0 o superior.
-
-# Pasos a seguir
-- Añade el bot a tu servidor mediante el [Portal de Desarrolladores de Discord](https://discord.com/developers/applications/).
-- Añade el TOKEN de tu bot al archivo principal.
-- Ejecuta el archivo "iniciar.bat" y espera un poco.
-
+- Esta web ha sido desarrollada con HTML y CSS
+- Probada en Github Codespaces
 
 # Referencias
 
-- [NPM.js](https://www.npmjs.com/package/discord.js)
-- [Discord.js](https://discord.js.org/)
-- [Repositorio de Discord.js](https://github.com/discordjs/discord.js)
+- [Powered by W3Schools](https://www.w3schools.com)
+- [Página Web](https://nicolasgon2006.github.io/lalin)
 
 ---------------------------------------------------------------------------
 
-Desarrollado con Node.js 16.11.0
+
