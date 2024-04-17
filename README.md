@@ -4,7 +4,7 @@
 
 # Blog de Lalín
 - Página de Apertura Pronto (Acabada)
-- Página Web Blog de Lalín (En desarrollo)
+- Página del Blog de Lalín (En desarrollo)
 
 # Sobre
 - Esta web ha sido desarrollada con HTML y CSS
